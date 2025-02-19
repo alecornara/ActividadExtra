@@ -1,0 +1,1 @@
+En esta unidad abarcamos lo que es la introducción a la programación desde 0, viendo los puntos base como lo son el sistema binario, la tabla ASCII y las potencias de 2. Enseguida se realizo un ejercicio, muy útil en mi opinión, el cual nos pedía escribir nuestro nombre completo en formato binario creando su tabla desde 0 correspondiente. 

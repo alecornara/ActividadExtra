@@ -1,0 +1,1 @@
+En esta unidad, a diferencia de la 1, nos concentramos más en lo que es el desarrollo de un programa en si, apoyándonos de JavaScript y sus derivados. Como ejercicio se nos solicitó la realización de un programa que a la hora que el usuario ingresara su fecha de nacimiento le dijera a que signo zodiacal correspondiera. Fue mi primera vez usando y creando un programa. 
